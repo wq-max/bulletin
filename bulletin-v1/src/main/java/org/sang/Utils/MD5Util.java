@@ -12,7 +12,7 @@ public class MD5Util {
         int id = 21172111;
         String  pwd = "123";
 
-        int uid = 21172122;
+        int uid = 21172144;
         String password = "456";
 
         System.out.println(md5(id+pwd));
